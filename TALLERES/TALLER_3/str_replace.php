@@ -9,7 +9,6 @@ echo "Frase modificada: $fraseModificada</br>";
 
 // Ejercicio: Crea una variable con una frase que contenga al menos tres veces la palabra "PHP"
 // y usa str_replace() para cambiar "PHP" por "JavaScript"
-$miFrase = "Para el modulo 3 de Clases PHP, enseñaremos como implementar diferentes funciones de PHP, para ir conociendo este lenguaje llamado PHP"; // Reemplaza esto con tu frase
 $miFraseModificada = str_replace("PHP", "JavaScript", $miFrase);
 
 echo "</br>Mi frase original: $miFrase</br>";
