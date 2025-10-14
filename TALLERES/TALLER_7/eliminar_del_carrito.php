@@ -1,0 +1,3 @@
+<?php
+//eliminar el carrito
+?>
